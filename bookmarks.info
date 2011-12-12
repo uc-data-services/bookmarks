@@ -8,5 +8,6 @@ description = "Selected list of AskTico content"
 features[flag][] = "bookmarks"
 features[flag][] = "fl_template"
 features[menu_custom][] = "navigation"
+project status url = http://doemo.lib.berkeley.edu/drupalfeatures/fserver
 name = "Bookmarks"
 package = "Features"
